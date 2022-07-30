@@ -1,5 +1,3 @@
-# David Levin , 316554641
-
 import sys
 import random
 import os.path
